@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/Trespring/burger#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
     "handlebars": "^4.0.11",
+    "method-override": "^3.0.0",
     "mysql": "^2.15.0",
     "node": "^10.6.0"
   }

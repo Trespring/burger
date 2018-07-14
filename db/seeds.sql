@@ -1,6 +1,4 @@
-INSERT INTO burgers (burger_name) VALUES ('The Judge');
-INSERT INTO burgers (burger_name) VALUES ('Sauce Hog');
-INSERT INTO burgers (burger_name, sleepy) VALUES ('Daisy Cuke', true);
-INSERT INTO burgers (burger_name, sleepy) VALUES ('Uncle Messy', true);
-INSERT INTO burgers (burger_name, sleepy) VALUES ('The Luke', true);
-INSERT INTO burgers (burger_name) VALUES ('The Bo');
+INSERT INTO burgers (burger_name, devoured) VALUES ('The Judge', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Sauce Hog', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Daisy Cuke', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Uncle Messy', FALSE);
